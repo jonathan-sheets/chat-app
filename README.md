@@ -5,28 +5,26 @@ The app also includes the ability to view messages offline while disabling the i
 <!-- ![Full App Android Demo](Final_Chat_Recording.gif) -->
 <img 
   src="./assets/5_4_Offline_Alert.png" 
-  width="144px" 
-  height="304px" 
+  height="400px" 
   alt="App offline alert" 
   style="margin:15px; border-radius: 8px"
 />
 <img 
   src="./assets/5_4_Input_Disabled.png" 
-  width="144px" 
-  height="304px" 
+  height="400px"
   alt="Offline view with input disabled" 
   style="margin:15px; border-radius: 8px"
 />
 <img 
-  src="./assets/Final_Chat_Recording.gif" 
-  width="144px" 
-  height="304px" 
+  src="./assets/Final_Chat_Recording.gif"  
+  height="400px" 
   alt="full app function recording" 
   style="margin:15px; border-radius: 8px"
 />
+<br />
 <img 
   src="./assets/Cloud_Firestore.png" 
-  height="304px" 
+  height="400px" 
   alt="Google firestore messages collection" 
   style="margin:15px; border-radius: 8px"
 />
